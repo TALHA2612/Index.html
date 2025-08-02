@@ -2,7 +2,7 @@
 div{
     background-color:black;
     
-    broder:10px;
+    broder:px;
 }
 h3{
     text-align: center;
@@ -27,7 +27,7 @@ a{
 font-size:5cm;
 }
 div{
-    border-radius:6px;
+    border-radius:0px;
     radius-color: yellow;
 }
   img{
